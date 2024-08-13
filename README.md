@@ -34,7 +34,7 @@
 <!-- Seção de Contato -->
 ## Vamos Conectar?
 <div> 
- <a href="https://discord.gg/KfmTyMdPqg" target="_blank"><img src="https://img.shields.io/badge/telegram-7289DA?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+ <a href="https://t.me/edgarzzin" target="_blank"><img src="https://img.shields.io/badge/telegram-7289DA?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 </a> 
   
 </div>
